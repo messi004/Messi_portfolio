@@ -1,4 +1,5 @@
 import { Navigation } from "@/components/Navigation";
+import Footer from "@/components/Footer";
 import { Card, CardHeader, CardTitle, CardContent } from "@/components/ui/card";
 import { Laptop, Database, Bot, Cog, ShieldAlert } from "lucide-react";
 import { motion } from "framer-motion";
@@ -72,6 +73,8 @@ export default function Services() {
           ))}
         </div>
       </main>
+
+      <Footer />
     </div>
   );
 }

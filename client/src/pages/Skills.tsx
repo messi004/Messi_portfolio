@@ -1,4 +1,5 @@
 import { Navigation } from "@/components/Navigation";
+import Footer from "@/components/Footer";
 import { Badge } from "@/components/ui/badge";
 import { motion } from "framer-motion";
 
@@ -63,6 +64,8 @@ export default function Skills() {
           ))}
         </div>
       </main>
+
+      <Footer />
     </div>
   );
 }

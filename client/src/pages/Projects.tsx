@@ -1,4 +1,5 @@
 import { Navigation } from "@/components/Navigation";
+import Footer from "@/components/Footer";
 import { ProjectCard } from "@/components/ProjectCard";
 import { useProjects } from "@/hooks/use-projects";
 import { Loader2 } from "lucide-react";
@@ -37,6 +38,8 @@ export default function Projects() {
           </div>
         )}
       </main>
+
+      <Footer />
     </div>
   );
 }
