@@ -15,7 +15,7 @@ const socialLinks = [
   { name: "GitHub", href: "https://github.com/messi004", icon: FaGithub },
   { name: "Telegram", href: "https://t.me/Messi0004", icon: FaTelegram },
   { name: "WhatsApp", href: "https://wa.me/918387041436", icon: FaWhatsapp },
-  { name: "HuggingFace", href: "https://huggingface.co/Messi0004", icon: SiHuggingface },
+  { name: "HuggingFace", href: "https://huggingface.co/Messi004", icon: SiHuggingface },
   { name: "Email", href: "mailto:mksheela@duck.com", icon: Mail },
 ];
 

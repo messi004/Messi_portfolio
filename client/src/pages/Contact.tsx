@@ -53,7 +53,7 @@ export default function Contact() {
     { icon: <FaWhatsapp className="w-6 h-6" />, label: "WhatsApp", value: "+91 8387041436", href: "https://wa.me/918387041436" },
     { icon: <FaTelegram className="w-6 h-6" />, label: "Telegram", value: "@Messi0004", href: "https://t.me/Messi0004" },
     { icon: <FaGithub className="w-6 h-6" />, label: "GitHub", value: "messi004", href: "https://github.com/messi004" },
-    { icon: <SiHuggingface className="w-6 h-6" />, label: "HuggingFace", value: "@Messi0004", href: "https://huggingface.co/Messi0004" },
+    { icon: <SiHuggingface className="w-6 h-6" />, label: "HuggingFace", value: "@Messi004", href: "https://huggingface.co/Messi004" },
     { icon: <FaEnvelope className="w-6 h-6" />, label: "Email", value: "mksheela@duck.com", href: "mailto:mksheela@duck.com" },
   ];
 
